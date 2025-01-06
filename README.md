@@ -43,7 +43,6 @@ The application is built using the following technologies:
 ### Database
 - **MySQL**: For storing and managing user and inventory data.
 
-## Screenshots
 
 ### Login Page
 - Users can log in using their registered email and password.
